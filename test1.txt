@@ -5,3 +5,4 @@ i have succeeded in merging the remote repository with my local repository,didn'
 that's all for now,then.`
 Alright,tried writing and making changes in the file but couldn't save and quit,so trying now again.let's see.
 Hey,it was a successful push,and now pull or fetch or merge is to be done.
+okay,it was a successful pull,i did pull command and it worked now.
