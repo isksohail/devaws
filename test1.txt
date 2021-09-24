@@ -10,3 +10,4 @@ so had to do fetch and merge as well to vi edit the file.
 Now,will do fetch only and edit file through vi editor,if it doesn't work then will do merge.
 Nope,git fetch couldn't bring changes from github to local repository,so did git pull and it worked,but can i edit without merge?
 yes,this time git pull edit did work,without merge,but i did fetch before pull,so???what is this sorcery?
+okay,i pulled this through main but made changes in the secondary in github.let's see.
