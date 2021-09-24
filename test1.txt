@@ -13,3 +13,6 @@ yes,this time git pull edit did work,without merge,but i did fetch before pull,s
 okay,i pulled this through main but made changes in the secondary in github.let's see.
 so there's no change in main branch,secondary branch changes are updated,both in github and local repository.
 Now will create a new branch in github and fetch/merge/pull into local repository.
+so yea,succeeded in pulling the new branch from github into local repository.
+And now will push the new branch from local to github,but vi editor is not saving and quitting for some reason.
+oh see this,somehow the vi editor did accept my wq command,maanjara kya hain,pata lagana padega.
